@@ -15,8 +15,8 @@
     "image": "DigiDeal",
     "category": "android",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://drive.google.com/file/d/1mxkGYVNaJ6oUmDlt2jcD0a9HQY0-mqN7/view?usp=sharing",
+      "code": "https://github.com/MeetSonchhatra/DIGIDEAL_ADMIN_PANEL"
     }
   },
 
@@ -111,8 +111,8 @@
     "image": "portfolio1",
     "category": "android",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://meetsonchhatra.netlify.app/",
+      "code": "https://github.com/MeetSonchhatra/Portfolio"
     }
   }
 ]
