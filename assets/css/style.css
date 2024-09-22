@@ -484,8 +484,9 @@ header .navbar ul li a:hover {
   margin-top: 8rem;
 }
 .skills .container .row {
-  display: grid;
-  grid-template-columns: repeat(4, 2fr);
+  display: flex;
+  justify-content: center;
+  /* grid-template-columns: repeat(4, 2fr); */
   flex-wrap: wrap;
   gap: 2rem;
 }
